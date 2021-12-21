@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UA\\MASTER\\TFM\\pruebasDeAceptacion\\pruebasDeAceptacion\\pruebasDeAceptacion.csproj": {}
+    "D:\\UA\\MASTER\\TFM\\PruebaAceptacion\\pruebasDeAceptacion\\pruebasDeAceptacion.csproj": {}
   },
   "projects": {
-    "D:\\UA\\MASTER\\TFM\\pruebasDeAceptacion\\pruebasDeAceptacion\\pruebasDeAceptacion.csproj": {
+    "D:\\UA\\MASTER\\TFM\\PruebaAceptacion\\pruebasDeAceptacion\\pruebasDeAceptacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UA\\MASTER\\TFM\\pruebasDeAceptacion\\pruebasDeAceptacion\\pruebasDeAceptacion.csproj",
+        "projectUniqueName": "D:\\UA\\MASTER\\TFM\\PruebaAceptacion\\pruebasDeAceptacion\\pruebasDeAceptacion.csproj",
         "projectName": "pruebasDeAceptacion",
-        "projectPath": "D:\\UA\\MASTER\\TFM\\pruebasDeAceptacion\\pruebasDeAceptacion\\pruebasDeAceptacion.csproj",
+        "projectPath": "D:\\UA\\MASTER\\TFM\\PruebaAceptacion\\pruebasDeAceptacion\\pruebasDeAceptacion.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "D:\\UA\\MASTER\\TFM\\pruebasDeAceptacion\\pruebasDeAceptacion\\obj\\",
+        "outputPath": "D:\\UA\\MASTER\\TFM\\PruebaAceptacion\\pruebasDeAceptacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
