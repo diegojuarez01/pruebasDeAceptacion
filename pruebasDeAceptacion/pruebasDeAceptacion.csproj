@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <Folder Include="Drivers\" />
+    <Folder Include="Features\Login\" />
     <Folder Include="Hooks\" />
   </ItemGroup>
 

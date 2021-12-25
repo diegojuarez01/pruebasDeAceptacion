@@ -19,8 +19,8 @@ namespace pruebasDeAceptacion.Features.AdministrarAlquileres
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "3.9.0.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [TechTalk.SpecRun.FeatureAttribute("SpecFlowFeature1", SourceFile="Features\\AdministrarAlquileres\\MostrarPrecios.feature", SourceLine=0)]
-    public partial class SpecFlowFeature1Feature
+    [TechTalk.SpecRun.FeatureAttribute("Mostrar Precios", SourceFile="Features\\AdministrarAlquileres\\MostrarPrecios.feature", SourceLine=0)]
+    public partial class MostrarPreciosFeature
     {
         
         private TechTalk.SpecFlow.ITestRunner testRunner;
@@ -34,7 +34,7 @@ namespace pruebasDeAceptacion.Features.AdministrarAlquileres
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features/AdministrarAlquileres", "SpecFlowFeature1", null, ProgrammingLanguage.CSharp, ((string[])(null)));
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features/AdministrarAlquileres", "Mostrar Precios", null, ProgrammingLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
         }
         
