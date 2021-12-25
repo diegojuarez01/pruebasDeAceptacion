@@ -1,4 +1,4 @@
-﻿Feature: Mostrar Precios
+﻿Feature: mostrar_precios
 
 Scenario: Se revisa el precio de un alquiler
 	Given El alquiler tiene un precio de <precioAlquilerDB> EUR
