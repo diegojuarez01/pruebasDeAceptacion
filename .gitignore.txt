@@ -7,20 +7,23 @@
 *.userosscache
 *.sln.docstates
 
+/pruebasDeAceptacion/obj/Debug/netcoreapp3.1/*.dll
+tr
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
 # Build results
-/pruebasDeAceptacion/debug/
-/pruebasDeAceptacion/debugPublic/
-/pruebasDeAceptacion/release/
-/pruebasDeAceptacion/releases/
-/pruebasDeAceptacion/x64/
-/pruebasDeAceptacion/x86/
-/pruebasDeAceptacion/bld/
-/pruebasDeAceptacion/bin/
-/pruebasDeAceptacion/obj/
-/pruebasDeAceptacion/log/
+debug/
+debugPublic/
+release/
+releases/
+x64/
+x86/
+bld/
+bin/
+obj/
+log/
 
 # Visual Studio 2015 cache/options directory
 .vs/
