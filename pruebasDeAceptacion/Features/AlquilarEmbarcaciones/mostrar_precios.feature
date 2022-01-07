@@ -1,4 +1,4 @@
-﻿Feature: Mostar precios
+﻿Feature: mostrar_precios
 	
 # Mostrar precios (Sistema API)
 Scenario: El cliente desea saber el precio de alquiler de una embarcación.
